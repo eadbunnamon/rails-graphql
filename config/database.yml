@@ -2,6 +2,7 @@ default: &default
   adapter: postgresql
   encoding: unicode
   host: db
+  # host: localhost
   database: sealth_vault_development
   username: postgres
   password: 12345
